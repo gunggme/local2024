@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9e2fbb7648e14d44b4bf0ad1a028abb, type: 3}
+  m_Name: V6Engine
+  m_EditorClassIdentifier: 
+  ItemName: V6Engine
+  CarPrefab: {fileID: 3457542116173057054, guid: 49e91d0cdd885e64db02d73299ba0888, type: 3}
+  NormalSpeed: 120
+  BoostSpeed: 130
+  MegaBoostSpeed: 140

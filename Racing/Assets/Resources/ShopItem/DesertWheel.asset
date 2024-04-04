@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bbce0e98de5dc94cb98712d016840f0, type: 3}
+  m_Name: DesertWheel
+  m_EditorClassIdentifier: 
+  ItemName: DesertWheel
+  Price: 10000
+  equipItem: {fileID: 11400000, guid: e50fdd35db28085439a8ad0dc0008acc, type: 2}

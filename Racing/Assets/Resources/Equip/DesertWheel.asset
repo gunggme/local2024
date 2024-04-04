@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 718a0792dbccc4c41b096a879eec9d76, type: 3}
+  m_Name: DesertWheel
+  m_EditorClassIdentifier: 
+  ItemName: DesertWheel
+  CarMaterial: {fileID: 2100000, guid: 526da2314d8807543a1798dcc89d0cc0, type: 2}
+  Changetextur: {fileID: 2800000, guid: 658d7dea16d6dd8428a3b3d8c5d8dd0d, type: 3}
+  layers:
+    serializedVersion: 2
+    m_Bits: 576
+  Deaccelation: 40

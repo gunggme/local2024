@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9e2fbb7648e14d44b4bf0ad1a028abb, type: 3}
+  m_Name: V4Engine
+  m_EditorClassIdentifier: 
+  ItemName: V4Engine
+  CarPrefab: {fileID: 5070262816427828615, guid: affa6cb99f02c2648abc1272f8daf85e, type: 3}
+  NormalSpeed: 110
+  BoostSpeed: 120
+  MegaBoostSpeed: 130
